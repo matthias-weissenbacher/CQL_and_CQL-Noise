@@ -4,7 +4,7 @@
 
 num_devices=2 #  N=2 number of available GPUS 
 
-#  Envvirpnment_List
+#Environments
 declare -a EnvArray=("halfcheetah-medium-expert-v0" "hopper-medium-expert-v0" "walker2d-medium-expert-v0" "halfcheetah-medium-v0" "hopper-medium-v0" "walker2d-medium-v0" "halfcheetah-medium-replay-v0" "hopper-medium-replay-v0" "walker2d-medium-replay-v0" "halfcheetah-random-v0" "hopper-random-v0" "walker2d-random-v0")
 
 #Algorithm
