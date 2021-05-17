@@ -1,8 +1,8 @@
 # CQL
-Self-contained implementation of CQL and S4RL (CQL-Noise). Copyright Matthias Weissenbacher.
+Self-contained implementation of CQL and S4RL (CQL-Noise). Based on SAC. Copyright Matthias Weissenbacher.
 
 # Requirements
-CQL based on SAC on [D4RL](https://github.com/rail-berkeley/d4rl) and [Mujoco](http://www.mujoco.org/) continuous control tasks in [OpenAI gym](https://gym.openai.com/). 
+Tested on [D4RL](https://github.com/rail-berkeley/d4rl) and [Mujoco](http://www.mujoco.org/) continuous control tasks in [OpenAI gym](https://gym.openai.com/). 
 
 
 # Usage
